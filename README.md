@@ -1,2 +1,2 @@
 # java-0709
-Java 07-2019
+Java training class 07-2019
